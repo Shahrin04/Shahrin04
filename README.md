@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahrin04
-- 👀 I’m interested in apps development
-- 🌱 I’m currently learning to build an app as like as Skype
+- 👀 I’m interested in apps development with flutter framework
+- 🌱 I’m currently learning to build an app like Skype
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - shahrin029@gmail.com
 
